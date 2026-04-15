@@ -151,6 +151,4 @@ Key parameters from `config.py`:
 
 ---
 
-## Course
 
-M.Tech CSE (AIML) — Computer Networks, VIT Vellore
